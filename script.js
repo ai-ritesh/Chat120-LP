@@ -2,7 +2,7 @@
   "use strict";
 
   const GITHUB_URL = "https://github.com/ai-ritesh/ChatWave";
-  const APP_URL = "https://chat-wave-nine.vercel.app/";
+  const APP_URL = "https://chat120-sable.vercel.app/";
 
   // Fixes the top message icon and every other Lucide icon on the page.
   const initIcons = () => {
